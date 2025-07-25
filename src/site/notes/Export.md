@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/export/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Export/","tags":["gardenEntry"]}
 ---
-
 
 Map of worlds: 
 ![WorldMap.png](/img/user/Assets/WorldMap.png) 
@@ -151,7 +150,7 @@ ___
 
 > [!quote|no-t] SUMMARY
 >The story begins at the aforementioned [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/portal\|portal]] of our party's primary realm starrting [[Minthe Thistlestep\|Minthe Thistlestep]], [[Compendium/Party/Player Characters/Johannes\|Johannes]], [[Compendium/Party/Player Characters/Star\|Star]], [[Vivienne La Tour  \|Vivienne La Tour  ]]], and [[Compendium/Party/Player Characters/Card\|"Wild Card"]]. All of them were contacted in some way or another during the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]] by different parties and asked/ordered to come here with the notable exception of [[Vivienne La Tour  \|Vivienne La Tour  ]]. When they see many people seemingly unable to enter the portal, including some very powerful individuals, they decide to try and get in. A nearby guide tells them that the goal is to just enter the portal and see what is behind the crisis. It should be very brief and not at all dangeroius.
->They come into this new world [[2-World/Earth\|Earth]] but in doing so they feel a [[Compendium/Lore/Misc Lore/strange dark force\|strange dark force]] grip their hearts and squeeze it. They come into contact with their first foe, a man who claims to be a [[Compendium/Lore/Misc Lore/negator\|negator]] with the power of [[UnToast\|UnToast]]. The party does not fully understand this concept yet.
+>They come into this new world [[Earth\|Earth]] but in doing so they feel a [[Compendium/Lore/Misc Lore/strange dark force\|strange dark force]] grip their hearts and squeeze it. They come into contact with their first foe, a man who claims to be a [[Compendium/Lore/Misc Lore/negator\|negator]] with the power of [[UnToast\|UnToast]]. The party does not fully understand this concept yet.
 >After a swift defeat of this foe, a member of the [[Compendium/Lore/Organizations/Knights Moralis\|Knights Moralis]] named [[Mualani Ibarareth\|Mualani Ibarareth]]  confronts them and is about to apprehend one of them for doing an act of [[Compendium/Lore/Misc Lore/Forbidden Magic\|Forbidden Magic]]. They meet [[Ichico Nemuri\|Ichico Nemuri]] who appears to be an ally. 
 >To stop this, she asks her daughter [[Mico Vorgeil\|Mico Vorgeil]] to cast a memory erasure [[Spell\|Spell]]. Once they escape they are told of [[Sol\|Sol]] and his influence on the World. Through various apocalyptic events, including one called [[Compendium/Lore/Events/Ragnarok\|Ragnarok]], God has created and destroyed the world many times over until the most recent one. A previous group  (now called the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/The Flashborn\|The Flashborn]]) who also came in through a portal to knock out God and stop [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. Regardless, now [Sol] has captured Ichico's friends through [[UMA Soul\|UMA Soul]] who is a creature called a [[Compendium/Lore/Misc Lore/UMA\|UMA]]. 
 >Ichico talks about how her friends and colleagues used to be part of an organization called the [[Compendium/Lore/Organizations/Union\|Union]] but now it is all but gone thanks to the capture of many of its members. She speaks of how the [[Compendium/Lore/Organizations/Union\|Union]] would partake in quests to defeat UMAs and gain [[Artifacts\|Artifacts]] that will give them the power to kill [[Sol\|Sol]]. She asks the party for their aid and in return, they will be provided food and board as well a tidy sum of gold. While hesistant at first, the party eventually concedes and agrees to help. Their first target is a [[Compendium/Lore/Misc Lore/UMA\|UMA]] called "[[UMA Colour\|UMA Colour]]"
@@ -165,7 +164,7 @@ ___
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -201,7 +200,7 @@ ___
 >> - [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Tolstoy/Tolstoy\|Tolstoy]]
 >
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -233,7 +232,7 @@ ___
 >> - [[Locations\|Locations]] (status)
 > [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Tolstoy/Tolstoy\|Tolstoy]]
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -271,7 +270,7 @@ ___
 >> - [[Locations\|Locations]] (status)
 > [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Sapone/Sapone\|Sapone]], [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Tolstoy/Tolstoy\|Tolstoy]], [[Arcan Gate\|Arcan Gate]]
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -305,7 +304,7 @@ ___
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -343,7 +342,7 @@ ___
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -371,7 +370,7 @@ ___
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -404,7 +403,7 @@ ___
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -543,7 +542,7 @@ Choose 3
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[2-Campaign/Quests/Quests\|Quests]] (status)
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
@@ -559,7 +558,7 @@ Choose 3
 
 
 
-> The Flashborn is the unofficial name of a series of people who were the first to experience the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]]. These individuls were forcibly taken from their current location when a portal opened up nearby. The most notable member is [[Ilya\|Ilya]] who has a connection with [[Compendium/Party/Player Characters/Star\|Star]]. Once they entered these portals, they were taken into a version of [[2-World/Earth\|Earth]] in the year 2017. [[Ichico Nemuri\|Ichico Nemuri]] and [[Mico Vorgeil\|Mico Vorgeil]] explained they had summoned them here to help them stop the ongoing [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. The whole world was only able to continue existing thanks to [[Shield Of Aegis\|Shield Of Aegis]] which had expanded to a giant size over the African Continent. With the promise of gold, a world on the brink of existence and begging, the Flashborn took the task of defeating [[Sol\|Sol]]. To do this, they were instructed to break into a facility in Germany, steal a rocket, use [[UMA MOVE\|UMA MOVE]] to fire that rocket into space and activate the [[New Eve Project\|New Eve Project]] and fire it into [[Sol\|Sol]]. When they broke in, they had to fight against [[Shen Xiang\|Shen Xiang]] and [[Chikara Shiogen\|Chikara Shiogen]] who were being forced to fight them by [[UMA SOUL\|UMA SOUL]]. They also briefly fought [[Tella Fren\|Tella Fren]] After that battle, they solved a puzzle to unlock the rocket sequence, entered Mars and took note of [[Xilonen Yakche\|Xilonen Yakche]], [[Mico Vorgeil\|Mico Vorgeil]]'s ex boyfriend who despite all the intelligence in the world, lacked the basic emotional insight to understand her needs. After fighting an invisible [[Sean Datz\|Sean Datz]], they broke into the core of the [[New Eve Project\|New Eve Project]] and de-stablized the anti-matter core. This alongside some clever positioning allowed them to fire it straight into the "Sun" which turned out to be an egg or container for [[Sol\|Sol]]. Before getting knocked out, it created [[Compendium/Lore/Misc Lore/UMA\|UMA]] Fantasy and [[Compendium/Lore/Misc Lore/UMA\|UMA]] Magic before exiling them from its world, changing the genre of [[2-World/Earth\|Earth]] to be more fantastical in nature. Before it was knocked unconsious, it also enacted [[Sol's Reformation Plan\|Sol's Reformation Plan]]. The Flashborn themselves were exhiled to their respective home-planes and branded with a mark of Sol. Giving them an age-less immortality. 
+> The Flashborn is the unofficial name of a series of people who were the first to experience the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]]. These individuls were forcibly taken from their current location when a portal opened up nearby. The most notable member is [[Ilya\|Ilya]] who has a connection with [[Compendium/Party/Player Characters/Star\|Star]]. Once they entered these portals, they were taken into a version of [[Earth\|Earth]] in the year 2017. [[Ichico Nemuri\|Ichico Nemuri]] and [[Mico Vorgeil\|Mico Vorgeil]] explained they had summoned them here to help them stop the ongoing [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. The whole world was only able to continue existing thanks to [[Shield Of Aegis\|Shield Of Aegis]] which had expanded to a giant size over the African Continent. With the promise of gold, a world on the brink of existence and begging, the Flashborn took the task of defeating [[Sol\|Sol]]. To do this, they were instructed to break into a facility in Germany, steal a rocket, use [[UMA MOVE\|UMA MOVE]] to fire that rocket into space and activate the [[New Eve Project\|New Eve Project]] and fire it into [[Sol\|Sol]]. When they broke in, they had to fight against [[Shen Xiang\|Shen Xiang]] and [[Chikara Shiogen\|Chikara Shiogen]] who were being forced to fight them by [[UMA SOUL\|UMA SOUL]]. They also briefly fought [[Tella Fren\|Tella Fren]] After that battle, they solved a puzzle to unlock the rocket sequence, entered Mars and took note of [[Xilonen Yakche\|Xilonen Yakche]], [[Mico Vorgeil\|Mico Vorgeil]]'s ex boyfriend who despite all the intelligence in the world, lacked the basic emotional insight to understand her needs. After fighting an invisible [[Sean Datz\|Sean Datz]], they broke into the core of the [[New Eve Project\|New Eve Project]] and de-stablized the anti-matter core. This alongside some clever positioning allowed them to fire it straight into the "Sun" which turned out to be an egg or container for [[Sol\|Sol]]. Before getting knocked out, it created [[Compendium/Lore/Misc Lore/UMA\|UMA]] Fantasy and [[Compendium/Lore/Misc Lore/UMA\|UMA]] Magic before exiling them from its world, changing the genre of [[Earth\|Earth]] to be more fantastical in nature. Before it was knocked unconsious, it also enacted [[Sol's Reformation Plan\|Sol's Reformation Plan]]. The Flashborn themselves were exhiled to their respective home-planes and branded with a mark of Sol. Giving them an age-less immortality. 
 
 </div></div>
 
