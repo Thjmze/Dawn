@@ -158,13 +158,13 @@ ___
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->> - [[Characters\|Characters]] (status)
+>> - [[Testing stuff (ignore)/Characters\|Characters]] (status)
 >
 >> [!example|flex] LOCATIONS:
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
@@ -191,7 +191,7 @@ ___
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->> - [[Characters\|Characters]] (status)
+>> - [[Testing stuff (ignore)/Characters\|Characters]] (status)
 >> - [[Ichico Nemuri\|Ichico Nemuri]]
 >
 >> [!example|flex] LOCATIONS:
@@ -200,7 +200,7 @@ ___
 >> - [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Tolstoy/Tolstoy\|Tolstoy]]
 >
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
@@ -221,18 +221,18 @@ ___
 >[[Compendium/Party/Player Characters/Star\|Star]], throwing herself in danger, almost falls into a spike trap, gets run over by a spiky rock, and by being raised in a temple, does not know Chinese. Unfortunate. 
 >After one colourful light puzzle, the door opens and turns transparent, as we find [[Calysta\|Calysta]], trapped by coloured ropes on an altar. She was constantly begging for help. It felt very cliche, and in fact, felt too cliche. So instead, the party futzed around for a really long time holding open a door, digging a hole, and finding a letter which indicates that Laika rigged traps within the ruins, the same traps the party (or more specifically, Star) has encountered.
 >Turns out, [[UMA Colour\|UMA Colour]] disguised itself as [[Calysta\|Calysta]], and so the party fought (minus [[Compendium/Party/Player Characters/Vivienne La Tour\|Vivi]] who was still trying to keep a door open). Star immediately collapsed right in front of the boss. [[Compendium/Party/Player Characters/Johannes\|Johannes]] nearly got downed. [[Vivienne La Tour  \|Vivienne La Tour  ]] finally opened that door and dealt the final blow to [[UMA Colour\|UMA Colour]].
->[[Index\|Index]]
+>[[Testing stuff (ignore)/Index\|Index]]
 
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->>   [[Characters\|Characters]] (status)
+>>   [[Testing stuff (ignore)/Characters\|Characters]] (status)
 > [[Ichico Nemuri\|Ichico Nemuri]]
 >> [!example|flex] LOCATIONS:
 >> - [[Locations\|Locations]] (status)
 > [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Tolstoy/Tolstoy\|Tolstoy]]
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
@@ -250,7 +250,7 @@ ___
 ___
 
 > [!quote|no-t] SUMMARY
->We recuperate on the way back to [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Sapone/Sapone\|Sapone]], and meet up with [[Calysta\|Calysta]]'s father who requested help. He thanks us, and points to the capital up north for resupplies of [[Compendium/Party/Player Characters/Johannes\|Johannes]]' revolver ammo, since the bullets are fairly advanced for the setting. [[Ichico Nemuri\|Ichico]] suspects something about [[Laika Spades\|Laika]], and intends to report to the [[Compendium/Lore/Organizations/Union\|Union]] about it. She leaves the party for their own devices, saying 'the records aren't right'
+>We recuperate  the way back to [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Sapone/Sapone\|Sapone]], and meet ufp with [[Calysta\|Calysta]]'s father who requested help. He thanks us, and points to the capital up north for resupplies of [[Compendium/Party/Player Characters/Johannes\|Johannes]]' revolver ammo, since the bullets are fairly advanced for the setting. [[Ichico Nemuri\|Ichico]] suspects something about [[Laika Spades\|Laika]], and intends to report to the [[Compendium/Lore/Organizations/Union\|Union]] about it. She leaves the party for their own devices, saying 'the records aren't right'
 >[[Compendium/Party/Player Characters/Star\|Star]] has a great desire to get a stuffed animal. She asks the gate guard patrolling the upper area where the toy store owner is to buy one. Despite her desperation, asking the guard didn't help as he informs her of how insensitive/crass her actions were considering the recent tragedy that just occured. She comes back to the inn. 
 >[[Compendium/Party/Player Characters/Johannes\|Johannes]] follows [[Ichico Nemuri\|Ichico]] for a follow up on what she's saying. He is informed that [[Ichico Nemuri\|Ichico]] is also not of the current realm, in a sense. Asking for an explanation on [[Compendium/Lore/Misc Lore/UMA\|UMAs]], [[Compendium/Party/Player Characters/Johannes\|Johannes]] learns that despite [[UMA Colour\|UMA Colour]] dying, there is still colour in the world. That is because Colour is a [[Master Rule\|Master Rule]], where, despite dying, the concept that they represent continues. There are also the [[Superior Rules\|Superior Rules]], a being above Master Rules, like [[UMA Death\|UMA Death]], which perpetually exist. Ichico has further claims that, under [[King Irmin\|King Irmin]], there is no [[arcane geometry\|arcane geometry]] researcher named Laika, and so something must be up with this individual. UMA Colour could not have killed a body in such a way, and talks to JOHANNES about her findings.
 >[[Vivienne La Tour \|Vivi]] and [[Minthe Thistlestep\|Minthe Thistlestep]] go out for inventory cleanup, and find extra scraps outside the gate. Vivi asks Minthe on trying to create a specialized grappling hook, and talks about how focusing is really hard.
@@ -264,13 +264,13 @@ ___
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->> - [[Characters\|Characters]] (status)
+>> - [[Testing stuff (ignore)/Characters\|Characters]] (status)
 > [[Ichico Nemuri\|Ichico Nemuri]]
 >> [!example|flex] LOCATIONS:
 >> - [[Locations\|Locations]] (status)
 > [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Sapone/Sapone\|Sapone]], [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Tolstoy/Tolstoy\|Tolstoy]], [[Arcan Gate\|Arcan Gate]]
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
@@ -298,13 +298,13 @@ ___
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->> - [[Characters\|Characters]] (status)
+>> - [[Testing stuff (ignore)/Characters\|Characters]] (status)
 > [[Compendium/NPC's/Sozantos\|Sozantos]]
 >> [!example|flex] LOCATIONS:
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
@@ -336,13 +336,13 @@ ___
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->> - [[Characters\|Characters]] (status)
+>> - [[Testing stuff (ignore)/Characters\|Characters]] (status)
 >
 >> [!example|flex] LOCATIONS:
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
@@ -364,13 +364,13 @@ ___
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->> - [[Characters\|Characters]] (status)
+>> - [[Testing stuff (ignore)/Characters\|Characters]] (status)
 >
 >> [!example|flex] LOCATIONS:
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
@@ -397,13 +397,13 @@ ___
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->> - [[Characters\|Characters]] (status)
+>> - [[Testing stuff (ignore)/Characters\|Characters]] (status)
 >
 >> [!example|flex] LOCATIONS:
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
@@ -536,13 +536,13 @@ Choose 3
 #### marker
 > [!column|flex 3]
 >> [!info|felx] NPC'S:
->> - [[Characters\|Characters]] (status)
+>> - [[Testing stuff (ignore)/Characters\|Characters]] (status)
 >
 >> [!example|flex] LOCATIONS:
 >> - [[Locations\|Locations]] (status)
 >
 >> [!important|flex] QUESTS:
->> - [[Quests\|Quests]] (status)
+>> - [[Testing stuff (ignore)/Quests\|Quests]] (status)
 
 
 </div></div>
