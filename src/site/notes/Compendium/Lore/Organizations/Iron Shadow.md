@@ -27,7 +27,7 @@ On the 31st of July, 2 PR the world saw a lethal terrorist attack on a train cal
 
 { .block-language-dataview}
 >>[!note]- HISTORY
-- [[Session Notes/Session 07 (2025-04-26)#Session 07\|Session 07 (2025-04-26)]]
+- \-
 - \-
 - \-
 

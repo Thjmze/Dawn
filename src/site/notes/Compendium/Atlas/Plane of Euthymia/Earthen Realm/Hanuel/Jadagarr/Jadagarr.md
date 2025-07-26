@@ -58,7 +58,7 @@ dv.list(data);
 >
 >> [!note]- HISTORY
 - \-
-- [[Session Notes/Session 04 (2025-03-07)#Session 04\|Session 04 (2025-03-07)]]
+- \-
 
 { .block-language-dataview}
 #### marker
