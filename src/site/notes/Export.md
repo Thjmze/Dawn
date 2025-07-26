@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Export/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Export/"}
 ---
 
 Map of worlds: 

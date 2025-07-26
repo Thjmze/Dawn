@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Testing stuff (ignore)/Home/","hideInGraph":true,"pinned":true}
+{"dg-publish":true,"permalink":"/Testing stuff (ignore)/Home/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"]}
 ---
 
 ![[rotf_cover_art_banner_2.png\|rotf_cover_art_banner_2.png]]
