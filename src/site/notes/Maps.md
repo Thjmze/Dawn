@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/Maps/"}
 ---
 
-![PoliticalMapUncoloured.png](/img/user/Assets/PoliticalMapUncoloured.png)
+![PoliticalMapUncoloured.png](/img/user/Assets/Images/Assets/PoliticalMapUncoloured.png)
 
-![WorldMap.png](/img/user/Assets/WorldMap.png)
+![WorldMap.png](/img/user/Assets/Images/Assets/WorldMap.png)
 
-![ContientsMap.png](/img/user/Assets/ContientsMap.png)
+![ContientsMap.png](/img/user/Assets/Images/Assets/ContientsMap.png)

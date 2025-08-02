@@ -9,7 +9,7 @@ ___
 
 > [!quote|no-t]
 :FasQuoteLeft: If the world may fall at any second, why not live life like it is your last moment?  :FasQuoteRight:
->![SinnerSymbol.jpg|right wm-sm](/img/user/Assets/SinnerSymbol.jpg)Profile of The Sinners, the chaotic evil aligned organization.
+>![SinnerSymbol.jpg|right wm-sm](/img/user/Assets/Images/Assets/SinnerSymbol.jpg)Profile of The Sinners, the chaotic evil aligned organization.
 
 #### marker
 > [!column|flex 3]
