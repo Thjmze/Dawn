@@ -55,13 +55,13 @@ Laika Stence
 
 My one true love Thrain,
 
-I've found the way out. It happened while I was observing a subject who, miraculously, managed to survive my attack. I saw the slightest disturbance in his magic fields, a faint shimmer. It appears the body produces an essence, an elixir, to heal itself when injured. This essence, however faint, seems to have the same effect as the healing magic cast by clerics.
+I've found the way out. It happened while I was observing a subject who, miraculously, managed to survive my attack. I saw the slightest disturbance in his magic fields, a faint shimmer. It appears the body produces an essence, an elixir, to heal itself when injured. This essence, however faint, seems to have the same effect as the healing magic cast by clerics though it is extremely diluted by the stupid body. As I'm the first to discover this, I shall call this "Essence of Thrain". Considering typical negation injuries cannot be healed so easily, I assume this means we have actually made progress towards treating this kind of injury. 
 
-Considering it's such a low-level effect, I can only assume that if we condense it further—by forcing greater sources of healing, like a leg wound versus a mere paper cut, or by combining multiple sources of healing until they mutate, we may have a chance of condensing it into something stronger than even true resurrection. Something that can overcome the negation based injuries. I've placed your body within a stasis chamber so you shall not age a single day.
+Considering it's such a low-level effect, I can only assume that if we condense it further, by forcing greater sources of healing, like a leg wound versus a mere paper cut, or by combining multiple sources of healing until they mutate, we may have a chance of condensing it into something stronger than even true resurrection. Something that can overcome the death you suffered as a result of my negation. I've placed your body within a stasis chamber so you shall not age a single day. I promise you, there won't be a single thing on this world I wouldn't destroy just to get you back. Please just wait for me.
 
 In the meanwhile, the Sinners have promoted me to a Vice and given me charge over a factory to complete my research faster. Selling these basic healing essences to adventurers and the like seems to be a profitable venture for them. For me? It's the justification I need to keep my factory funded, and keep my work going.
 
-We've found that every single body has its own unique composition of healing essence, depending on the amount and type of injuries it has sustained. An adventurer, for example, will provide a more versatile essence than a clerk, but the clerk's essence is stronger at healing specific clerical injuries like paper cuts or internal pain. I've dubbed it "Thrain Elixir" after you, my love.
+We've found that every single body has its own unique composition of healing essence, depending on the amount and type of injuries it has sustained. An adventurer, for example, will provide a more versatile essence than a clerk, but the clerk's essence is stronger at healing specific clerical injuries like paper cuts or internal pain. 
 
 Before your would-be 30th birthday, I promise I will bring you back.
 
