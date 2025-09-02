@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Session Planning/Privy Stories/"}
 ---
 
-Privy tells this story over a cup of tea depending on the party's actions. If they're actively working towards ending decay then this story is chosen. If they are not then
+Privy tells this story over a cup of tea depending on the party's actions. 
 
 "I knew a fisherman once. A strong man. He raged against the sea. When a storm broke his mast, he cursed the sky and built a stronger one. When a wave stole his catch, he spat in the water and cast a wider net. His hands were raw, his face was a map of worry, and his heart was a drum of constant anger. He hated the silence of the deep water.
 
