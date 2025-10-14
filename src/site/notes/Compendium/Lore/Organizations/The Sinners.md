@@ -23,17 +23,12 @@ ___
 
 The Sinners are comprised of 12 Members known only by their codenames
 1. [[Belthor\|Belthor]]
-2. [[Astaroth\|Astaroth]]
-3. [[Abigor\|Abigor]]
+2. [[Astaroth\|Astaroth]] https://i.postimg.cc/pXgHr39F/image.png 
+3. [[Abigor\|Abigor]] 
 4. [[Marchosias\|Marchosias]]
 5. [[Phenex\|Phenex]]
 6. [[Buer\|Buer]]
-7. [[Paimonas\|Paimonas]]
-8. [[Dainsleif\|Dainsleif]]
-9. [[Raum\|Raum]]
-10. [[Stolas\|Stolas]]
-11.  [[Decarabia\|Decarabia]]
-12. [[Sabock\|Sabock]]
+
 
 Their primary vault is called "Strix 0" or as many wannabe criminals know it "The Big One".  They also have a series of smaller holding facilities or mini-vaults. The one [[Compendium/Lore/Organizations/Sub One Club\|Sub One Club]] is planning to rob is one of these mini-vaults containing over 20,000 gp but it is the second largest in the mini-vault collection. It is called "Fort Korihor". 
 >>[!note]- HISTORY
