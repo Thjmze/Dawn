@@ -119,7 +119,52 @@
 >Ellumin was still curious.
 
 > [!NOTE]- This is a collapsible callout. 
-> Insert Text
+> A person stands guard over her party as they sleep. It’s nighttime, and the snow
+> glistens as it falls. Glistening under the moonlight. Glistening under the warm light of
+> the fire.
+> And glistening like the eyes watching Card right now.
+> She’s being watched 
+> She’s always being watched.
+> But usually she’s spoken to as well. But they’ve been quiet. They’ve been quiet since the funeral.
+> Until tonight.
+> A figure approaches her. The only figure without eyes. No footsteps are made as the 
+> figure stands beside Card. He’s a young red tiefling in tattered, bloodied, clothes with 
+> bloodied bandages over his eyes.
+> You gave him a proper burial,” the figure said. Exhaustion forms in Card’s eyes as she gives a deep, almost aching, sigh. “Yeah” she said. Her voice so quiet it’s a question if it’s really Card speaking. You buried one of them before one of us”
+…
+“yeah”
+…
+“When will you go back Achi”
+She’s sitting down now with her knees to her chest. Her ears lowered like a sad cat and
+her tail wrapped around her as a pathetic attempt at comfort.
+“When I’m strong enough” she quietly replies
+A silence falls between the two of them. For one, two, three, four, five, six, seven, eight,
+nine, te-
+“He was strong enough” Card said quietly and shamefully
+“Strong enough for what?”
+“To protect his village”
+…
+“You still blame yourself for that?”
+A silence falls between the two of them.
+“I could’ve done something y’know. If I was just stron-”
+“We were ten when they took us Achillea. You couldn’t have done anything”
+“I could’ve been stronger”
+“And what? Died like that paladin did for his village?”
+A silence falls between the two of them.
+The figure sighs as he sits next to Card, his next words spoken gently
+“Achi, we’re already gone. There’s nothing to protect anymore. And-” the figure pauses,
+almost painfully “-you couldn’t have done anything. No matter how hard you tried.”
+Card’s lips morphed into a thin line as her eyebrows furrowed in shame.
+“He was a good man, a stronger man, than I was”
+“What? When you were ten? Fourteen? Of course he was stronger Achillea he had
+training”
+“So did I”
+“Yeah and you were also starved and alone. Remember?” The figure pointed to his
+bandaged eyes, a reference. And while he couldn’t see Card’s expression he knew it
+was one of pain.
+A silence falls between the two of them. As Card curls up further.
+“Forgive me” she says
+“We already have”
 
 > [!NOTE]- This is a collapsible callout. 
 > Insert Text
